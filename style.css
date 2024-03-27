@@ -3,7 +3,7 @@ body {
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 20px;
 }
 
 .orange-color {
@@ -12,6 +12,7 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 100px;
 }
 
 .half-width {
